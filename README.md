@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Mohammad864
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning php
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in AI and Data Science
+- 🌱 I’m currently learning Python
 - 📫 How to reach me mohammadttwwee@gmail.com
 
 <!---
